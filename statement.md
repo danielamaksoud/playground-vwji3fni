@@ -14,7 +14,6 @@ lucro = lucro/2;
 valor_de_venda = custo+impostos+lucro;
 
 print("O valor de venda atual e igual a", valor_de_venda);
-
 ```
 
 # Advanced usage
